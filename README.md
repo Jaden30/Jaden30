@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**Jaden30/Jaden30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Ola Jaden Austine.
 
