@@ -13,7 +13,7 @@ My name is Ola Jaden Austine.
     . AWS
     . Docker
     . CSS 
-- 🌱 I’m currently studying for the AWS Data analysis certification specialty 
+- 🌱 I’m currently studying for the AWS Data analysis certification specialty. I am an AWS Certified Practioner 
 
 - 👯 I’m looking to collaborate on python projects, bioinformatics and health related projects 
 
