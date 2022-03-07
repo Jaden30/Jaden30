@@ -10,12 +10,14 @@ My name is Ola Jaden Austine.
     . Perl
     . Java 
     . HTML 
+    . AWS
+    . Docker
     . CSS 
 - 🌱 I’m currently studying for the AWS Data analysis certification specialty 
 
-- 👯 I’m looking to collaborate on python projects, bioinformatics and health related projects especially involving machine learning 
+- 👯 I’m looking to collaborate on python projects, bioinformatics and health related projects 
 
-- 🤔 I’m looking for help with data 
+- 🤔 I’m looking for help with data repository 
 
 - 📫 How to reach me: austineolanrewaju@gmail.com
 
