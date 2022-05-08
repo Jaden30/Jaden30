@@ -3,7 +3,7 @@
 
 My name is Ola Jaden Austine.
 
-- 🔭 I’m currently working as a bioinformatics developer on the Ensembl Variation team EMBL-EBI @olaaustine
+- 🔭 I’m currently working as a bioinformatics developer on the Ensembl Variation team EMBL-EBI [@olaaustine](https://github.com/olaaustine)
 - My present stack include :
     . mySQL 
     . Python
